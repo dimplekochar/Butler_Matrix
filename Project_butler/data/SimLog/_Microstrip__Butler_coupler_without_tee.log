@@ -1,0 +1,19 @@
+
+hpeesofsim (*) 450.update1 Aug 27 2016, MINT version 4
+    (64-bit linux built: 08/27/16 08:52:09)
+Copyright 1989 - 2016 Keysight Technologies.
+
+
+SP SP1[1] <Oroject2_lib:_Microstrip__Butler_coupler_without_tee:schematic>   freq=(4 GHz->7 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.50 seconds.
+    System time               =     0.16 seconds.
+    Total CPU time            =     0.66 seconds.
+    Simulation stopwatch time =     0.25 seconds.
+    Total stopwatch time      =     1.81 seconds.
+
+    Physical memory used: 60.2 MBytes.
+    Incremental virtual memory (data only) used:  19.6 MBytes.
+

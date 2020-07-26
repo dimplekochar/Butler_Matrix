@@ -1,0 +1,14 @@
+
+hpeesofsim (*) 490.shp Nov 12 2018, MINT version 4
+    (64-bit windows built: Tue Nov 13, 2018 02:20:54 +0000)
+
+
+SP SP1[1] <Oroject2_lib:Microstrip_Butler_coupler_new:schematic>   freq=(4 GHz->7 GHz)
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(3.112600) < MinRecommendValue(0.000016) OR UserValue > MaxRecommendValue(0.160000) for 'W' in `TL93'
+
+
+
+Resource usage:
+  Total stopwatch time     =     5.10 seconds.
+

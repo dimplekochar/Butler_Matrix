@@ -1,0 +1,11 @@
+
+hpeesofsim (*) 490.shp Nov 12 2018, MINT version 4
+    (64-bit windows built: Tue Nov 13, 2018 02:20:54 +0000)
+
+
+SP SP1[1] <Oroject2_lib:Microstrip_Butler_coupler_new2_wo_tee:schematic>   freq=(4 GHz->7 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     8.65 seconds.
+
